@@ -1,2 +1,3 @@
-./ __pycache__/*
-./fcc/*
+/__pycache__/*
+/fcc/*
+gitignore.save
